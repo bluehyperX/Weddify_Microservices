@@ -1,4 +1,4 @@
-# Weddify_Microservices
+# Weddify
 
 A wedding planner website where Vendors such as Marriage Hall owners, Photographers, Caterers, and Bridal salons can register their services and Users can book them.
 
